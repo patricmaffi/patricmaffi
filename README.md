@@ -46,3 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://lavca.org/app/uploads/2019/10/aws-logo-square.png" alt="aws" width="40" height="40"/></a>
 </div>
+
+## Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricmaffi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
